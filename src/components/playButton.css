@@ -1,0 +1,8 @@
+#buttonstyle{
+display:flex;
+flex-direction: row;
+}
+button.dark{
+    background-color:skyblue;
+    color:white;
+}
